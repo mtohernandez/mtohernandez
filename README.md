@@ -1,98 +1,84 @@
-<picture>
-  <img src="header.svg" width="100%" alt="Mateo Hernández — Software Engineer" />
-</picture>
+<p>
+  <img src="https://img.shields.io/badge/Software_Engineer-1C1917?style=flat-square&labelColor=1C1917" alt="" />
+  <img src="https://img.shields.io/badge/Medellín,_Colombia-837A72?style=flat-square&labelColor=837A72" alt="" />
+  <img src="https://img.shields.io/badge/open_to_work-D4C4A8?style=flat-square&labelColor=D4C4A8&logoColor=1C1917" alt="" />
+</p>
 
-<br/>
+# Mateo Hernández
 
-Most devs list their tech stack and call it a profile.  
-Here's what I've actually shipped instead:
+I build the part of the product people actually touch — then I make it faster, smarter, and harder to break.
 
-<br/>
+I've designed **Server-Driven UI frameworks** for a bank, scaled apps to **5,000+ concurrent users**, and built **autonomous AI agents** that scrape, reason, and stream without crashing. I care about interfaces that feel inevitable, not just functional.
+
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Banking-grade frontend
+**Banking-grade frontend** · Itaú Unibanco
 
-Designed a **Server-Driven UI framework from scratch** at Itaú Unibanco. JSON configs that freed the frontend from backend release cycles. Every PR reviewed by engineers with 10+ years of experience. Every line had to be bulletproof — real money moves through it.
+Designed a proprietary SDUI meta-framework from scratch — JSON configs that decoupled the frontend release cycle entirely. Modernized legacy CRM portals. Passed code reviews with 10+ year veterans. Every line had to survive banking-level security audits.
 
-*Result: 40% faster load times across legacy CRM portals.*
+`40% faster load times`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI that actually works
+**Autonomous AI agent** · Personal
 
-Built an **autonomous research agent** — a ReAct loop with 12 tools, Playwright browser automation, SSRF protection, and a custom LLM retry middleware that handles malformed JSON without crashing the agent.
+Built a research agent with a ReAct loop, 12 tools, Playwright browser automation, SSRF validation, rate limiting, and a custom LLM retry middleware that recovers from malformed tool-call JSON without failing the agent.
 
-*Not a wrapper around an API. An agent that thinks, scrapes, retries, and streams.*
+`12 tools · SSE streaming · enterprise security`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 5,000 users, 60 FPS
+**Atomic Scalable Design** · Universidad Pontificia Bolivariana
 
-Scaled a React app to **5,000+ concurrent users** with real-time geolocation and 3D asset rendering — maintaining 60 FPS on mid-range phones. Reduced student navigation time by 40%.
+Scaled a React app with real-time geolocation and 3D asset rendering to 5,000+ simultaneous users — maintaining 60 FPS on mid-range mobile devices. Reduced navigation time by 40%.
 
-*Performance isn't a feature. It's the product.*
+`60 FPS · mid-range devices`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 2 years in a research lab
+**AI research** · Universidad Tecnológica de Bolívar
 
-Built **computer vision pipelines** (OpenCV) for head tracking and **audio analysis tools** (Librosa) for speech therapy diagnostics. Real patients. Real clinicians. Published research.
+Built computer vision pipelines (OpenCV) for head movement tracking and audio analysis tools (Librosa) for speech therapy diagnostics. Real patients, real clinicians, real impact on Dyspraxia and Dyslexia diagnosis.
 
-*Code that helps people speak again hits different.*
+`computer vision · audio analysis · medical`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-```typescript
-const mateo = {
-  focus:     "Frontend Architecture × AI Agents",
-  currently: "Building things that are fast, smart, and don't break",
-  stack: {
-    frontend: ["React", "Next.js 16", "TypeScript", "Tailwind CSS"],
-    backend:  ["Node.js", "FastAPI", "Python"],
-    ai:       ["LangGraph", "LangChain", "OpenCV", "Playwright"],
-    data:     ["MongoDB", "SQL"],
-    cloud:    ["AWS"],
-  },
-  education: "B.S. Software Engineering — 4.3 GPA",
-  location:  "Medellín, Colombia 🇨🇴",
+```ts
+const stack = {
+  frontend: ["React", "Next.js 16", "TypeScript", "Tailwind CSS"],
+  backend:  ["Node.js", "FastAPI", "Python"],
+  ai:       ["LangGraph", "LangChain", "OpenCV", "Playwright"],
+  data:     ["MongoDB", "SQL"],
+  cloud:    ["AWS"],
 };
 ```
 
-<br/>
+---
 
-<div>
-
-#### What I'm building next
-
-I sit at the intersection of **frontend architecture** and **AI agents** — interfaces that aren't just pretty, but intelligent. I'm looking for a team that ships fast, reviews hard, and doesn't think "frontend" means "less technical."
-
-If that's you → let's talk.
-
-</div>
-
-<br/>
+**Currently** — building at the intersection of frontend architecture and AI agents.  
+Looking for a team that ships fast, reviews hard, and doesn't think "frontend" means "less technical."
 
 <p>
-<a href="https://www.linkedin.com/in/mateohernandezinsignares/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-<a href="mailto:m4teoh3rnandez@outlook.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-</a>
+  <a href="https://www.linkedin.com/in/mateohernandezinsignares/">
+    <img src="https://img.shields.io/badge/linkedin-1C1917?style=flat-square&logo=linkedin&logoColor=FAF9F7" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:m4teoh3rnandez@outlook.com">
+    <img src="https://img.shields.io/badge/email-1C1917?style=flat-square&logo=maildotru&logoColor=FAF9F7" alt="Email" />
+  </a>
 </p>
-
-<br/>
 
 <sub>This README was written by a human. The AI agent was built by one too.</sub>
