@@ -18,7 +18,7 @@ I've designed **Server-Driven UI frameworks** for a bank, scaled apps and built 
 
 **Banking-grade frontend** · Itaú Unibanco
 
-Designed a proprietary SDUI meta-framework from scratch. Modernized legacy CRM portals.
+Designed a proprietary SDUI meta-framework from scratch — JSON configs that decoupled the frontend release cycle entirely. Modernized legacy CRM portals. Passed code reviews with 10+ year veterans. Every line had to survive banking-level security audits.
 
 `40% faster load times`
 
