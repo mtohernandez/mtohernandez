@@ -8,7 +8,7 @@
 
 I build the part of the product people actually touch — then I make it faster, smarter, and harder to break.
 
-I've designed **Server-Driven UI frameworks** for a bank, scaled apps to **5,000+ concurrent users**, and built **autonomous AI agents** that scrape, reason, and stream without crashing. I care about interfaces that feel inevitable, not just functional.
+I've designed **Server-Driven UI frameworks** for a bank, scaled apps and built **autonomous AI agents** that scrape, reason, and stream without crashing. I care about interfaces that feel inevitable, not just functional.
 
 ---
 
@@ -18,7 +18,7 @@ I've designed **Server-Driven UI frameworks** for a bank, scaled apps to **5,000
 
 **Banking-grade frontend** · Itaú Unibanco
 
-Designed a proprietary SDUI meta-framework from scratch — JSON configs that decoupled the frontend release cycle entirely. Modernized legacy CRM portals. Passed code reviews with 10+ year veterans. Every line had to survive banking-level security audits.
+Designed a proprietary SDUI meta-framework from scratch. Modernized legacy CRM portals.
 
 `40% faster load times`
 
@@ -47,7 +47,7 @@ Scaled a React app with real-time geolocation and 3D asset rendering to 5,000+ s
 
 **AI research** · Universidad Tecnológica de Bolívar
 
-Built computer vision pipelines (OpenCV) for head movement tracking and audio analysis tools (Librosa) for speech therapy diagnostics. Real patients, real clinicians, real impact on Dyspraxia and Dyslexia diagnosis.
+Built computer vision pipelines (OpenCV) for head movement tracking and audio analysis tools (Librosa) for speech therapy diagnostics. 
 
 `computer vision · audio analysis · medical`
 
@@ -69,7 +69,7 @@ const stack = {
 
 ---
 
-**Currently** — building at the intersection of frontend architecture and AI agents.  
+**Currently** — building at the intersection of fullstack architecture and AI agents.  
 Looking for a team that ships fast, reviews hard, and doesn't think "frontend" means "less technical."
 
 <p>
