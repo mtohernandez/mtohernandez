@@ -6,79 +6,19 @@
 
 # Mateo Hernández
 
-I build the part of the product people actually touch — then I make it faster, smarter, and harder to break.
+I think the best frontends feel like they were always there — fast enough that you forget they're loading, simple enough that you never read the docs, and solid enough that the backend team stops worrying.
 
-I've designed **Server-Driven UI frameworks** for a bank, scaled apps and built **autonomous AI agents** that scrape, reason, and stream without crashing. I care about interfaces that feel inevitable, not just functional.
+Right now I'm deep into the space where **UI meets AI agents** — not chatbot wrappers, but interfaces that actually *do things*: queue jobs, stream reasoning, show the model thinking out loud. That's the stuff I can't stop building.
 
----
+I believe good architecture is invisible, good DX is a multiplier, and the best code you'll write is the code you delete.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Banking-grade frontend** · Itaú Unibanco
-
-Designed a proprietary SDUI meta-framework from scratch — JSON configs that decoupled the frontend release cycle entirely. Modernized legacy CRM portals. Passed code reviews with 10+ year veterans. Every line had to survive banking-level security audits.
-
-`40% faster load times`
-
-</td>
-<td width="50%" valign="top">
-
-**Autonomous AI agent** · Personal
-
-Built a research agent with a ReAct loop, 12 tools, Playwright browser automation, SSRF validation, rate limiting, and a custom LLM retry middleware that recovers from malformed tool-call JSON without failing the agent.
-
-`12 tools · SSE streaming · enterprise security`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Atomic Scalable Design** · Universidad Pontificia Bolivariana
-
-Scaled a React app with real-time geolocation and 3D asset rendering to 5,000+ simultaneous users — maintaining 60 FPS on mid-range mobile devices. Reduced navigation time by 40%.
-
-`60 FPS · mid-range devices`
-
-</td>
-<td width="50%" valign="top">
-
-**AI research** · Universidad Tecnológica de Bolívar
-
-Built computer vision pipelines (OpenCV) for head movement tracking and audio analysis tools (Librosa) for speech therapy diagnostics. 
-
-`computer vision · audio analysis · medical`
-
-</td>
-</tr>
-</table>
-
----
-
-```ts
-const stack = {
-  frontend: ["React", "Next.js 16", "TypeScript", "Tailwind CSS"],
-  backend:  ["Node.js", "FastAPI", "Python"],
-  ai:       ["LangGraph", "LangChain", "OpenCV", "Playwright"],
-  data:     ["MongoDB", "SQL"],
-  cloud:    ["AWS"],
-};
-```
-
----
-
-**Currently** — building at the intersection of fullstack architecture and AI agents.  
-Looking for a team that ships fast, reviews hard, and doesn't think "frontend" means "less technical."
+The pinned repos below are the best way to see how I think. Start with [agentic-flagship](https://github.com/mtohernandez/agentic-flagship) if you want to see the full picture.
 
 <p>
   <a href="https://www.linkedin.com/in/mateohernandezinsignares/">
-    <img src="https://img.shields.io/badge/linkedin-1C1917?style=flat-square&logo=linkedin&logoColor=FAF9F7" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-1C1917?style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:m4teoh3rnandez@outlook.com">
-    <img src="https://img.shields.io/badge/email-1C1917?style=flat-square&logo=maildotru&logoColor=FAF9F7" alt="Email" />
+    <img src="https://img.shields.io/badge/email-1C1917?style=flat-square&logo=maildotru&logoColor=white" />
   </a>
 </p>
-
-<sub>This README was written by a human. The AI agent was built by one too.</sub>
