@@ -5,11 +5,7 @@
 
 # Mateo Hernández
 
-Frontend engineer. React, Next.js, Flutter, AI-augmented apps.
-
-I build full-stack agentic apps. A Python service runs the agent and its tool calls. A Next.js UI streams the agent's reasoning steps over SSE while it works. A BFF proxy keeps the two decoupled.
-
-Good architecture is invisible. Good DX is a multiplier. The best code you'll write is the code you delete.
+Frontend engineer. React, Next.js, Flutter, AI-augmented apps. Good architecture is invisible. Good DX is a multiplier. The best code you'll write is the code you delete.
 
 ## Featured
 
