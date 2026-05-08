@@ -7,12 +7,6 @@
 
 Frontend engineer. React, Next.js, Flutter, AI-augmented apps. Good architecture is invisible. Good DX is a multiplier. The best code you'll write is the code you delete.
 
-## Featured
-
-- **[agentic-flagship](https://agentic-flagship.vercel.app)** (live). Streaming AI web-research agent. Next.js 16, FastAPI, SSE, Feature-Sliced Design. ([web](https://github.com/mtohernandez/agentic-flagship), [api](https://github.com/mtohernandez/agentic-flagship-api))
-- **[coral-thread](https://github.com/mtohernandez/coral-thread)**. Threaded social platform. Next.js 16, React 19, TypeScript.
-- **[NotiNotes](https://github.com/mtohernandez/NotiNotes)**. Flutter notes app. Custom theming, tags, scheduled reminders.
-
 ## Selected work
 
 - Itaú Unibanco, software engineer (via Pragma), Aug 2024 to Apr 2025. Built the Flutter Server-Driven UI rendering layer for the onboarding app.
